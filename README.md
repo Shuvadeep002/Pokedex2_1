@@ -98,24 +98,6 @@ yarn ios
 ### ⭐ **Favorite Pokémon**  
 - Mark Pokémon as favorites and access them quickly from a dedicated list.  
 
----
-
-## 📂 Project Structure  
-
-```
-pokedex-app
-├── src
-│   ├── assets          # Images, icons, etc.
-│   ├── components      # Reusable components
-│   ├── navigation      # Navigation setup
-│   ├── redux           # State management with Redux
-│   ├── screens         # App screens (Home, Details, Favorites, etc.)
-│   ├── services        # API calls and related functions
-│   └── utils           # Helper functions
-├── App.tsx             # Main App file
-├── package.json        # Project dependencies and scripts
-└── README.md           # Project documentation
-```
 
 ---
 
